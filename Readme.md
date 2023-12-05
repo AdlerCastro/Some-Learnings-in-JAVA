@@ -1,4 +1,4 @@
-##Hi, this repository is intended for some knowledge in JAVA acquired in the second semester of Computer Engineering
+## Hi, this repository is intended for some knowledge in JAVA acquired in the second semester of Computer Engineering
 
 In this repository you will find topics such as:
 - Arrays e ArrayList
